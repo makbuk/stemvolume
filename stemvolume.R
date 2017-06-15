@@ -1,9 +1,5 @@
 setwd("/home/makbuk/prog/r/stemvolume/")
 
-#Predicting Volume of a Tree
-#http://rstudio-pubs-static.s3.amazonaws.com/138191_9169a18ae3d34e1492d1df67a810e5d5.html
-#https://github.com/avinayan?tab=repositories
-
 require(xlsx)
 library(ggplot2)
 
